@@ -5,7 +5,7 @@
 ## Présentation
 Passionné par l'informatique et les nouvelles technologies, je suis actuellement en formation pour devenir spécialiste en infrastructures **Cloud et Système**. Curieux et motivé, j'aime comprendre comment les réseaux fonctionnent et optimiser les environnements techniques.
 
-Vous pouvez me retrouver sur mon [Profil LinkedIn](https://fr.linkedin.com/in/revine-singarasa-2657832ab).
+Vous pouvez me retrouver sur mon [Profil LinkedIn](https://fr.linkedin.com/in/revine-singarasa-2657832ab) et sur mon [instagram] (https://www.instagram.com/revine_off/).
 
 ## Formation
 - **Wild Code School** : *Formation en Développement et Cloud*
