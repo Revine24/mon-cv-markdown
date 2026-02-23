@@ -22,6 +22,6 @@ Vous pouvez me retrouver sur mon [Profil LinkedIn](https://fr.linkedin.com/in/re
   - Gestion des commandes et du stock.
  
 ## Hobbies
-- **Football** : Pratique en club ou entre amis, esprit d'équipe.
-- **Cinéma** : Passionné par les films de science-fiction et les documentaires techniques.
-- **Veille technologique** : Suivre l'actualité du Cloud et du Hardware.
+- **Football** : Pratique en club et entre amis, esprit d'équipe.
+- **Cinéma** : Passionné par le cinema Indien.
+- **Veille technologique** : Suivre l'actualité sur l'IA.
