@@ -1,1 +1,27 @@
-# mon-cv-markdown
+# CV de [Revine SINGARASA] - Futur Expert Cloud & Système
+
+![Ma Photo](revine2.jpg) 
+
+## Présentation
+Passionné par l'informatique et les nouvelles technologies, je suis actuellement en formation pour devenir spécialiste en infrastructures **Cloud et Système**. Curieux et motivé, j'aime comprendre comment les réseaux fonctionnent et optimiser les environnements techniques.
+
+Vous pouvez me retrouver sur mon [Profil LinkedIn](https://www.linkedin.com/in/revine-singarasa-2657832ab).
+
+## Formation
+- **Wild Code School** : *Formation en Développement et Cloud*
+- **Ecole iris Paris** : *BTS SIO SISR* 
+- **Lycee Voillaume** : *BAC STI2D*  
+
+## Expérience professionnelle
+- **[High tech moving]** : *[Technico-Commercial en alternance]*
+  Description de mes missions et des compétences acquises.
+  - Gérer et maintenir le parc informatique (PC, imprimantes, périphériques)
+  - Analyse, maintenance et dépannage des systèmes informatiques et mobiles
+  - Accueil et conseil client sur les produits high-tech.
+  - Vente et fidélisation de la clientèle.
+  - Gestion des commandes et du stock.
+ 
+## Hobbies
+- **Football** : Pratique en club ou entre amis, esprit d'équipe.
+- **Cinéma** : Passionné par les films de science-fiction et les documentaires techniques.
+- **Veille technologique** : Suivre l'actualité du Cloud et du Hardware.
