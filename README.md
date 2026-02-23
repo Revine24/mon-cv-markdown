@@ -3,7 +3,7 @@
 ![Ma Photo](revine2.jpg) 
 
 ## Présentation
-Passionné par l'informatique et les nouvelles technologies, je suis actuellement en formation pour devenir spécialiste en infrastructures **Cloud et Système**. Curieux et motivé, j'aime comprendre comment les réseaux fonctionnent et optimiser les environnements techniques.
+Passionné par l’informatique et les nouvelles technologies, âgé de 22 ans, je suis actuellement en formation pour devenir spécialiste en infrastructures Cloud et systèmes. Curieux et motivé, j’aime comprendre le fonctionnement des réseaux et optimiser les environnements techniques.
 
 Vous pouvez me retrouver sur mon [Profil LinkedIn](https://fr.linkedin.com/in/revine-singarasa-2657832ab) et sur mon [instagram](https://www.instagram.com/revine_off/).
 
