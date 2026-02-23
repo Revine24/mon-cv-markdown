@@ -14,7 +14,7 @@ Vous pouvez me retrouver sur mon [Profil LinkedIn](https://fr.linkedin.com/in/re
 
 ## Expérience professionnelle
 - **High tech moving** : *Technico-Commercial en alternance*
-  Description de mes missions et des compétences acquises.
+  
   - Gérer et maintenir le parc informatique (PC, imprimantes, périphériques)
   - Analyse, maintenance et dépannage des systèmes informatiques et mobiles
   - Accueil et conseil client sur les produits high-tech.
