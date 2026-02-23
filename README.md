@@ -1,4 +1,4 @@
-# CV de [Revine SINGARASA] - Futur Expert Cloud & Système
+# CV de Revine SINGARASA - Futur Expert Cloud & Système
 
 ![Ma Photo](revine2.jpg) 
 
